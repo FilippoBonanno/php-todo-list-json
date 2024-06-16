@@ -12,7 +12,7 @@ createApp({
   mounted() {
     console.log("Recupero i dati dal server");
 
-    axios.get("../api.php").then(results => {
+    axios.get("../list.php").then(results => {
         console.log("Risultati: ", results);
         this.students = results.data;
     });

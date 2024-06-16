@@ -15,8 +15,11 @@
         <h1>Benvenuto</h1>
 
         <ul>
-            <li v-for="student in students">{{ student.name }}</li>
+            <li v-for="student in students">{{ student.name }}  {{student.last_name}}</li>
         </ul>
+        <input type="text" placeholder="Inserisci Nome" :vmodel="nome">
+        <input type="text" placeholder="Inserisci Cognome" :vmodel="cognome">
+        <button>Invia</button>
 
     </div>
 

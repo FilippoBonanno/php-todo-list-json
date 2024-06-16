@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Mario",
+        "last_name": "Rossi",
+        "isIscritto": false
+    },
+    {
+        "name": "Giovanna",
+        "last_name": "Bianchi",
+        "isIscritto": true
+    },
+    {
+        "name": "Giuseppe",
+        "last_name": "Verdi",
+        "isIscritto": false
+    },
+    {
+        "name": "Davide",
+        "last_name": "Di Giacomo",
+        "isIscritto": true
+    },
+    {
+        "name": "luca",
+        "last_name": "lambiase",
+        "isIscritto": false
+    },
+    {
+        "name": "mario",
+        "last_name": "bianchi",
+        "isIscritto": true
+    },
+    {
+        "name": "massimiliano",
+        "last_name": "rocco",
+        "isIscritto": false
+    },
+    {
+        "name": "antonio",
+        "last_name": "dattolo",
+        "isIscritto": true
+    },
+    {
+        "name": "prova",
+        "last_name": "provata",
+        "isIscritto": "true"
+    }
+]
